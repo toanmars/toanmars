@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toanmars
 - 👀 I’m interested in golang, nodejs, php(laravel), database and solutions.
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning golang and work on it
 - 💞️ I’m looking to collaborate on pet project
 - 📫 How to reach me https://www.linkedin.com/in/toanhuynh1609/
 - 😄 Pronouns: toan
